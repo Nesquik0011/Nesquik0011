@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cs" height="60" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cs,discord,github,pycharm,unity" height="60" />
   </a>
   <img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico" width="50" height="50" style="vertical-align: top; margin-left: 5px;" />
 </p>
